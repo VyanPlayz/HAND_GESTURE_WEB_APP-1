@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/sZ-d90mF_/
